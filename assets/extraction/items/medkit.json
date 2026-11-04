@@ -1,0 +1,41 @@
+{
+ "model": {
+  "type": "range_dispatch",
+  "property": "custom_model_data",
+  "index": 0,
+  "fallback": {
+   "type": "model",
+   "model": "extraction:item/medkit"
+  },
+  "entries": [
+   {
+    "threshold": 1,
+    "model": {
+     "type": "model",
+     "model": "extraction:item/medkit_use_1"
+    }
+   },
+   {
+    "threshold": 2,
+    "model": {
+     "type": "model",
+     "model": "extraction:item/medkit_use_2"
+    }
+   },
+   {
+    "threshold": 3,
+    "model": {
+     "type": "model",
+     "model": "extraction:item/medkit_use_3"
+    }
+   },
+   {
+    "threshold": 4,
+    "model": {
+     "type": "model",
+     "model": "extraction:item/medkit_use_4"
+    }
+   }
+  ]
+ }
+}

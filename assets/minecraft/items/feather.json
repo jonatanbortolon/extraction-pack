@@ -1,0 +1,2071 @@
+{
+    "hand_animation_on_swap": false,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/feather"
+        },
+        "entries": [
+            {
+                "threshold": -50020,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/scythe_gold"
+                }
+            },
+            {
+                "threshold": -50010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/combatknife_gold"
+                }
+            },
+            {
+                "threshold": -50001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stim_gold"
+                }
+            },
+            {
+                "threshold": -40020,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/scythe_jungle"
+                }
+            },
+            {
+                "threshold": -40010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/combatknife_jungle"
+                }
+            },
+            {
+                "threshold": -40001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stim_jungle"
+                }
+            },
+            {
+                "threshold": -30020,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/scythe_urban"
+                }
+            },
+            {
+                "threshold": -30010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/combatknife_urban"
+                }
+            },
+            {
+                "threshold": -30001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stim_urban"
+                }
+            },
+            {
+                "threshold": -1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/misc/suppressor"
+                }
+            },
+            {
+                "threshold": -1001,
+                "model": {
+                    "type": "model",
+                    "model": "item/misc/reflexsight"
+                }
+            },
+            {
+                "threshold": -1000,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/reticle_pmii"
+                }
+            },
+            {
+                "threshold": -101,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ammo_nuke"
+                }
+            },
+            {
+                "threshold": -100,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ammo_rocket"
+                }
+            },
+            {
+                "threshold": -20,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/scythe"
+                }
+            },
+            {
+                "threshold": -10,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/combatknife"
+                }
+            },
+            {
+                "threshold": -1,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stim"
+                }
+            },
+            {
+                "threshold": 0,
+                "model": {
+                    "type": "model",
+                    "model": "item/feather"
+                }
+            },
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzi"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/aug"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfal"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpython"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagle"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98k"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rock"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uziaiming"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augaiming"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12aiming"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7aiming"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47aiming"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalaiming"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1aiming"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonaiming"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagleaiming"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98kaiming"
+                }
+            },
+            {
+                "threshold": 1011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34aiming"
+                }
+            },
+            {
+                "threshold": 1012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2aiming"
+                }
+            },
+            {
+                "threshold": 1013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/reticle_pmii"
+                }
+            },
+            {
+                "threshold": 1014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12aiming"
+                }
+            },
+            {
+                "threshold": 1015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44aiming"
+                }
+            },
+            {
+                "threshold": 1016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmanaiming"
+                }
+            },
+            {
+                "threshold": 1017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rockaiming"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzisprinting"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augsprinting"
+                }
+            },
+            {
+                "threshold": 2003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12sprinting"
+                }
+            },
+            {
+                "threshold": 2004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7sprinting"
+                }
+            },
+            {
+                "threshold": 2005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47sprinting"
+                }
+            },
+            {
+                "threshold": 2006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalsprinting"
+                }
+            },
+            {
+                "threshold": 2007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1sprinting"
+                }
+            },
+            {
+                "threshold": 2008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonsprinting"
+                }
+            },
+            {
+                "threshold": 2009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteaglesprinting"
+                }
+            },
+            {
+                "threshold": 2010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98ksprinting"
+                }
+            },
+            {
+                "threshold": 2011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34sprinting"
+                }
+            },
+            {
+                "threshold": 2012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2sprinting"
+                }
+            },
+            {
+                "threshold": 2013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50sprinting"
+                }
+            },
+            {
+                "threshold": 2014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12sprinting"
+                }
+            },
+            {
+                "threshold": 2015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44sprinting"
+                }
+            },
+            {
+                "threshold": 2016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmansprinting"
+                }
+            },
+            {
+                "threshold": 2017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rocksprinting"
+                }
+            },
+            {
+                "threshold": 3012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2reloading"
+                }
+            },
+            {
+                "threshold": 4016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty"
+                }
+            },
+            {
+                "threshold": 4017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty"
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_blue"
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_blue"
+                }
+            },
+            {
+                "threshold": 11004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_blueaiming"
+                }
+            },
+            {
+                "threshold": 11005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_blueaiming"
+                }
+            },
+            {
+                "threshold": 12004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_bluesprinting"
+                }
+            },
+            {
+                "threshold": 12005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_bluesprinting"
+                }
+            },
+            {
+                "threshold": 20004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_red"
+                }
+            },
+            {
+                "threshold": 20005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_red"
+                }
+            },
+            {
+                "threshold": 21004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_redaiming"
+                }
+            },
+            {
+                "threshold": 21005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_redaiming"
+                }
+            },
+            {
+                "threshold": 22004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_redsprinting"
+                }
+            },
+            {
+                "threshold": 22005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_redsprinting"
+                }
+            },
+            {
+                "threshold": 30001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzi_urban"
+                }
+            },
+            {
+                "threshold": 30002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/aug_urban"
+                }
+            },
+            {
+                "threshold": 30003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12_urban"
+                }
+            },
+            {
+                "threshold": 30004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_urban"
+                }
+            },
+            {
+                "threshold": 30005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_urban"
+                }
+            },
+            {
+                "threshold": 30006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfal_urban"
+                }
+            },
+            {
+                "threshold": 30007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_urban"
+                }
+            },
+            {
+                "threshold": 30008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpython_urban"
+                }
+            },
+            {
+                "threshold": 30009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagle_urban"
+                }
+            },
+            {
+                "threshold": 30010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98k_urban"
+                }
+            },
+            {
+                "threshold": 30011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34_urban"
+                }
+            },
+            {
+                "threshold": 30012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2_urban"
+                }
+            },
+            {
+                "threshold": 30013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50_urban"
+                }
+            },
+            {
+                "threshold": 30014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12_urban"
+                }
+            },
+            {
+                "threshold": 30015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_urban"
+                }
+            },
+            {
+                "threshold": 30016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_urban"
+                }
+            },
+            {
+                "threshold": 30017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rock_urban"
+                }
+            },
+            {
+                "threshold": 31001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uziaiming_urban"
+                }
+            },
+            {
+                "threshold": 31002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augaiming_urban"
+                }
+            },
+            {
+                "threshold": 31003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12aiming_urban"
+                }
+            },
+            {
+                "threshold": 31004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7aiming_urban"
+                }
+            },
+            {
+                "threshold": 31005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47aiming_urban"
+                }
+            },
+            {
+                "threshold": 31006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalaiming_urban"
+                }
+            },
+            {
+                "threshold": 31007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1aiming_urban"
+                }
+            },
+            {
+                "threshold": 31008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonaiming_urban"
+                }
+            },
+            {
+                "threshold": 31009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagleaiming_urban"
+                }
+            },
+            {
+                "threshold": 31010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98kaiming_urban"
+                }
+            },
+            {
+                "threshold": 31011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34aiming_urban"
+                }
+            },
+            {
+                "threshold": 31012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2aiming_urban"
+                }
+            },
+            {
+                "threshold": 31013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/reticle_pmii"
+                }
+            },
+            {
+                "threshold": 31014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12aiming_urban"
+                }
+            },
+            {
+                "threshold": 31015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44aiming_urban"
+                }
+            },
+            {
+                "threshold": 31016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmanaiming_urban"
+                }
+            },
+            {
+                "threshold": 31017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rockaiming_urban"
+                }
+            },
+            {
+                "threshold": 32001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzisprinting_urban"
+                }
+            },
+            {
+                "threshold": 32002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augsprinting_urban"
+                }
+            },
+            {
+                "threshold": 32003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalsprinting_urban"
+                }
+            },
+            {
+                "threshold": 32007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonsprinting_urban"
+                }
+            },
+            {
+                "threshold": 32009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteaglesprinting_urban"
+                }
+            },
+            {
+                "threshold": 32010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98ksprinting_urban"
+                }
+            },
+            {
+                "threshold": 32011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44sprinting_urban"
+                }
+            },
+            {
+                "threshold": 32016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmansprinting_urban"
+                }
+            },
+            {
+                "threshold": 32017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rocksprinting_urban"
+                }
+            },
+            {
+                "threshold": 33012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2reloading_urban"
+                }
+            },
+            {
+                "threshold": 34016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty_urban"
+                }
+            },
+            {
+                "threshold": 34017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty_urban"
+                }
+            },
+            {
+                "threshold": 40001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzi_jungle"
+                }
+            },
+            {
+                "threshold": 40002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/aug_jungle"
+                }
+            },
+            {
+                "threshold": 40003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12_jungle"
+                }
+            },
+            {
+                "threshold": 40004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_jungle"
+                }
+            },
+            {
+                "threshold": 40005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_jungle"
+                }
+            },
+            {
+                "threshold": 40006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfal_jungle"
+                }
+            },
+            {
+                "threshold": 40007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_jungle"
+                }
+            },
+            {
+                "threshold": 40008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpython_jungle"
+                }
+            },
+            {
+                "threshold": 40009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagle_jungle"
+                }
+            },
+            {
+                "threshold": 40010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98k_jungle"
+                }
+            },
+            {
+                "threshold": 40011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34_jungle"
+                }
+            },
+            {
+                "threshold": 40012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2_jungle"
+                }
+            },
+            {
+                "threshold": 40013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50_jungle"
+                }
+            },
+            {
+                "threshold": 40014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12_jungle"
+                }
+            },
+            {
+                "threshold": 40015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_jungle"
+                }
+            },
+            {
+                "threshold": 40016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_jungle"
+                }
+            },
+            {
+                "threshold": 40017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rock_jungle"
+                }
+            },
+            {
+                "threshold": 41001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uziaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagleaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98kaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/reticle_pmii"
+                }
+            },
+            {
+                "threshold": 41014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44aiming_jungle"
+                }
+            },
+            {
+                "threshold": 41016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmanaiming_jungle"
+                }
+            },
+            {
+                "threshold": 41017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rockaiming_jungle"
+                }
+            },
+            {
+                "threshold": 42001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzisprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteaglesprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98ksprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44sprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmansprinting_jungle"
+                }
+            },
+            {
+                "threshold": 42017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rocksprinting_jungle"
+                }
+            },
+            {
+                "threshold": 43012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2reloading_jungle"
+                }
+            },
+            {
+                "threshold": 44016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty_jungle"
+                }
+            },
+            {
+                "threshold": 44017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty_jungle"
+                }
+            },
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzi_gold"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/aug_gold"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12_gold"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7_gold"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47_gold"
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfal_gold"
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_gold"
+                }
+            },
+            {
+                "threshold": 50008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpython_gold"
+                }
+            },
+            {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagle_gold"
+                }
+            },
+            {
+                "threshold": 50010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98k_gold"
+                }
+            },
+            {
+                "threshold": 50011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34_gold"
+                }
+            },
+            {
+                "threshold": 50012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2_gold"
+                }
+            },
+            {
+                "threshold": 50013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50_gold"
+                }
+            },
+            {
+                "threshold": 50014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12_gold"
+                }
+            },
+            {
+                "threshold": 50015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_gold"
+                }
+            },
+            {
+                "threshold": 50016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_gold"
+                }
+            },
+            {
+                "threshold": 50017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rock_gold"
+                }
+            },
+            {
+                "threshold": 51001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uziaiming_gold"
+                }
+            },
+            {
+                "threshold": 51002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augaiming_gold"
+                }
+            },
+            {
+                "threshold": 51003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12aiming_gold"
+                }
+            },
+            {
+                "threshold": 51004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7aiming_gold"
+                }
+            },
+            {
+                "threshold": 51005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47aiming_gold"
+                }
+            },
+            {
+                "threshold": 51006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalaiming_gold"
+                }
+            },
+            {
+                "threshold": 51007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1aiming_gold"
+                }
+            },
+            {
+                "threshold": 51008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonaiming_gold"
+                }
+            },
+            {
+                "threshold": 51009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteagleaiming_gold"
+                }
+            },
+            {
+                "threshold": 51010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98kaiming_gold"
+                }
+            },
+            {
+                "threshold": 51011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34aiming_gold"
+                }
+            },
+            {
+                "threshold": 51012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2aiming_gold"
+                }
+            },
+            {
+                "threshold": 51013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/reticle_pmii"
+                }
+            },
+            {
+                "threshold": 51014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12aiming_gold"
+                }
+            },
+            {
+                "threshold": 51015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44aiming_gold"
+                }
+            },
+            {
+                "threshold": 51016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmanaiming_gold"
+                }
+            },
+            {
+                "threshold": 51017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rockaiming_gold"
+                }
+            },
+            {
+                "threshold": 52001,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/uzisprinting_gold"
+                }
+            },
+            {
+                "threshold": 52002,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/augsprinting_gold"
+                }
+            },
+            {
+                "threshold": 52003,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/origin12sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52004,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/rpg7sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52005,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ak47sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52006,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fnfalsprinting_gold"
+                }
+            },
+            {
+                "threshold": 52007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52008,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/coltpythonsprinting_gold"
+                }
+            },
+            {
+                "threshold": 52009,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/deserteaglesprinting_gold"
+                }
+            },
+            {
+                "threshold": 52010,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/kar98ksprinting_gold"
+                }
+            },
+            {
+                "threshold": 52011,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/mg34sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52013,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/ax50sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52014,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dp12sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44sprinting_gold"
+                }
+            },
+            {
+                "threshold": 52016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatmansprinting_gold"
+                }
+            },
+            {
+                "threshold": 52017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_rocksprinting_gold"
+                }
+            },
+            {
+                "threshold": 53012,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/famasg2reloading_gold"
+                }
+            },
+            {
+                "threshold": 54016,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty_gold"
+                }
+            },
+            {
+                "threshold": 54017,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/fatman_empty_gold"
+                }
+            },
+            {
+                "threshold": 100007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight"
+                }
+            },
+            {
+                "threshold": 100015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsight"
+                }
+            },
+            {
+                "threshold": 101007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightaiming"
+                }
+            },
+            {
+                "threshold": 101015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightaiming"
+                }
+            },
+            {
+                "threshold": 102007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightsprinting"
+                }
+            },
+            {
+                "threshold": 102015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightsprinting"
+                }
+            },
+            {
+                "threshold": 130007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_urban"
+                }
+            },
+            {
+                "threshold": 130015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsight_urban"
+                }
+            },
+            {
+                "threshold": 131007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightaiming_urban"
+                }
+            },
+            {
+                "threshold": 131015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightaiming_urban"
+                }
+            },
+            {
+                "threshold": 132007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightsprinting_urban"
+                }
+            },
+            {
+                "threshold": 132015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightsprinting_urban"
+                }
+            },
+            {
+                "threshold": 140007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_jungle"
+                }
+            },
+            {
+                "threshold": 140015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsight_jungle"
+                }
+            },
+            {
+                "threshold": 141007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightaiming_jungle"
+                }
+            },
+            {
+                "threshold": 141015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightaiming_jungle"
+                }
+            },
+            {
+                "threshold": 142007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 142015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 150007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_gold"
+                }
+            },
+            {
+                "threshold": 150015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsight_gold"
+                }
+            },
+            {
+                "threshold": 151007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightaiming_gold"
+                }
+            },
+            {
+                "threshold": 151015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightaiming_gold"
+                }
+            },
+            {
+                "threshold": 152007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsightsprinting_gold"
+                }
+            },
+            {
+                "threshold": 152015,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/stg44_reflexsightsprinting_gold"
+                }
+            },
+            {
+                "threshold": 1000007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressor"
+                }
+            },
+            {
+                "threshold": 1001007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressoraiming"
+                }
+            },
+            {
+                "threshold": 1002007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressorsprinting"
+                }
+            },
+            {
+                "threshold": 1030007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressor_urban"
+                }
+            },
+            {
+                "threshold": 1031007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressoraiming_urban"
+                }
+            },
+            {
+                "threshold": 1032007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressorsprinting_urban"
+                }
+            },
+            {
+                "threshold": 1040007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressor_jungle"
+                }
+            },
+            {
+                "threshold": 1041007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressoraiming_jungle"
+                }
+            },
+            {
+                "threshold": 1042007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressorsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 1050007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressor_gold"
+                }
+            },
+            {
+                "threshold": 1051007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressoraiming_gold"
+                }
+            },
+            {
+                "threshold": 1052007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_suppressorsprinting_gold"
+                }
+            },
+            {
+                "threshold": 1100007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressor"
+                }
+            },
+            {
+                "threshold": 1101007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressoraiming"
+                }
+            },
+            {
+                "threshold": 1102007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressorsprinting"
+                }
+            },
+            {
+                "threshold": 1130007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressor_urban"
+                }
+            },
+            {
+                "threshold": 1131007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressoraiming_urban"
+                }
+            },
+            {
+                "threshold": 1132007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressorsprinting_urban"
+                }
+            },
+            {
+                "threshold": 1140007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressor_jungle"
+                }
+            },
+            {
+                "threshold": 1141007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressoraiming_jungle"
+                }
+            },
+            {
+                "threshold": 1142007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressorsprinting_jungle"
+                }
+            },
+            {
+                "threshold": 1150007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressor_gold"
+                }
+            },
+            {
+                "threshold": 1151007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressoraiming_gold"
+                }
+            },
+            {
+                "threshold": 1152007,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/m4a1_reflexsight_suppressorsprinting_gold"
+                }
+            }
+        ]
+    }
+}
